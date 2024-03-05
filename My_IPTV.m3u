@@ -1,5 +1,3 @@
-#Kids⭐
-
 #EXTM3U8
 #EXTINF:-1 group-title="Kids",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -36,8 +34,6 @@ https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-354963
 #EXTINF:-1 group-title="Kids", Vergiss-dein-nicht
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-3a54e89e-5f69-45c9-ab18-7b0f075d530d-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_3a.mp4.csmil/index-f3-v1-a1.m3u8
 
-#SPORTS⭐
-
 #EXTM3U8
 #EXTINF:-1 group-title="Sports", Abu Dhabi Sports 1 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
@@ -49,8 +45,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTM3U8
 #EXTINF:-1 group-title="Sports", Abu Dhabi Sports 3 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#MBC⭐
 
 #EXTM3U8
 #EXTINF:-1 group-title="Series", رمضان معنا  
@@ -104,13 +98,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 group-title="Series",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
-#Musik⭐
-
 #EXTM3U
 #EXTINF: title="موسيقئ", Arabica
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#News⭐
 
 #EXTM3U8
 #EXTINF:-1 group-title="News",Al Arabiya
