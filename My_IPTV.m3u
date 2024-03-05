@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-id="MBC3" tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
-#EXTM3U8
-#EXTINF:-1 tvg-id="MBC3" tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids",MBC 3
-https://cv-h.phncdn.com/hls/videos/202302/03/424743701/,720P_4000K,480P_2000K,240P_1000K,_424743701.mp4.urlset/index-f1-v1-a1.m3u8?VWji3eJ6j3YPfebZLg1p6abBhYOtpRL1dJo3Q142sg61fT7WE4A6ho1IuRUhd2iHF7zgnFjgBNTp3Q1-dO1FR7v8SJK3ryP0LsDhu1Zf3KzgwP5vsZCNuIRaDYWfGb-wbxTtI8tqWP8qAy0mqH-xJb1h-KizanrlrneOEwoe__PWMwvmmtOEZcik3KRqpMgHmAdi1EJclQ
 
 #EXTM3U8
 #EXTINF:-1 group-title="Kids",Spacetoon
