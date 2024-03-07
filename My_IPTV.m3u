@@ -4,21 +4,20 @@
 #EXTINF:-1 tvg-id="MBC3" tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
-
 #EXTM3U8
-#EXTINF:-1 group-title="Kids",Spacetoon
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1973949512_b1296000_slAR.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids", كراميش
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids", Karamesh
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids", KiKA
+#EXTINF:-1 tvg-id="kika.de" logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", KIKA 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids",Ritter Schlumpfelot
+#EXTINF:-1tvg-id="kika.de" logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", Ritter Schlumpfelot
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/0/FCMS-0c008d2e-8177-4443-8d9f-9073ccfca60d-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_0c.mp4.csmil/index-f3-v1-a1.m3u8
 
 #EXTM3U8
@@ -26,15 +25,15 @@ https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/0/FCMS-0c008d
 https://kikaonlinehls-vh.akamaihd.net/i/mp4dyn/1/FCMS-1743405b-92e8-4529-84fb-00c3f4ddadaf-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_17.mp4.csmil/master.m3u8?set-segment-duration=responsive
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids", Eine Schlumpfshow für Gargamel 1
+#EXTINF:-1 tvg-id="kika.de" logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", Eine Schlumpfshow für Gargamel 1
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/8/FCMS-87b35f48-417a-441e-8e2e-b4bd79e5e7ef-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_87.mp4.csmil/index-f3-v1-a1.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids", Eine Schlumpfshow für Gargamel 2
+#EXTINF:-1 tvg-id="kika.de" logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", Eine Schlumpfshow für Gargamel 2
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-354963a2-aca1-4733-a39f-3fc54611edd5-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_35.mp4.csmil/index-f3-v1-a1.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Kids", Vergiss-dein-nicht
+#EXTINF:-1 tvg-id="kika.de" logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", Vergiss-dein-nicht
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-3a54e89e-5f69-45c9-ab18-7b0f075d530d-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_3a.mp4.csmil/index-f3-v1-a1.m3u8
 
 #EXTM3U8
@@ -64,6 +63,10 @@ https://dzdxx.mv27c4re2.online/_v2p-wwdo/12a3c523fb105800ed8c394685aeeb0bc62efb5
 #EXTINF:-1 group-title="Movie", Spider-Man: Across the Spider-Versed
 https://dzdxx.mv24a9e7k.online/_v2p-mwmk/12a3c523fb105800ed8c394685aeeb0bc52ea95c14bdb6f508027baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23f5075f49263974aa65b4feb4d4194afec39127d132631822f4c466fccd1c6fb0fcef123cd7f4ab9160c69bb09ba/h/bffff4/acabd;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8
 
+
+#EXTM3U8
+#EXTINF:-1 group-title="Movie", JAWAN
+https://ermld.mv23fez8d.online/_v2p-oalz/12a3c523fc105800ed8c394685aeeb0b932ea95c03bde2b24d417baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd0749543f85a4aef0e14c4f1ec38552e423d6fd67e5b1f6fd1cd98eb5880a87e86274ffb100c60/h/f4/bafeddcab;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8
 
 #SPORTS⭐
 
@@ -98,7 +101,7 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Series", MBC 1
+ #EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series",MBC 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
 #EXTM3U8
@@ -110,7 +113,7 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 #EXTM3U8
-#EXTINF:-1 group-title="Series",MBC 4
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Series",MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
 #EXTM3U8
@@ -133,11 +136,17 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 group-title="Series",Abu Dhabi Emirates
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
+#EXTM3U8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="Series",Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+
+
 #Musik⭐
 
 #EXTM3U
-#EXTINF: title="موسيقئ", Arabica
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 
 #News⭐
 
@@ -146,5 +155,9 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTM3U8
-#EXTINF:-1  group-title="أخبار",Al Jazeera
+#EXTINF:-1  group-title="News",Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#EXTM3U8
+#EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="News",Al Rabiaa
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
