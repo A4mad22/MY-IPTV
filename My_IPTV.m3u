@@ -1,21 +1,21 @@
 #EXTM3U8
-#EXTINF:-1 tvg-id="MBC3" tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids",MBC 3
+#EXTINF:-1 group-title="Kids",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
 #EXTM3U8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon
+#EXTINF:-1 group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1973949512_b1296000_slAR.m3u8
 
 #EXTM3U8
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/x4Y4YPiepN5eNGD48Wqf7XrlMWvq3oG3TU4apDnOnb0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Karameesh
+#EXTINF:-1 group-title="Kids", Karameesh
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
 
 #EXTM3U8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="Kids", Baraeym
+#EXTINF:-1 group-title="Kids", Baraeym
 https://cdn1.ipslow.com/tv525_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=3ba9298a3278adcdf37bbf50e212e5c2b2ff8b66-de6c1844d1ac5c9e6161ffb89e967cfb-1709663376-1709652576
 
 #EXTM3U8
-#EXTINF:-1 tvg-id="kika.de" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", KIKA 
+#EXTINF:-1 group-title="Kids", KIKA 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTM3U8
