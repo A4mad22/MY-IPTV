@@ -1,58 +1,176 @@
 #Kids🌟Deutsch
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", KIKA Live
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Das Horn des Überfulsses
 https://kikaonlinehls-vh.akamaihd.net/i/mp4dyn/9/FCMS-951eb53e-56c0-4ee0-8c69-ba2b45e6db92-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_95.mp4.csmil/master.m3u8?set-segment-duration=responsive
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Ritter Schlumpfelot
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/0/FCMS-0c008d2e-8177-4443-8d9f-9073ccfca60d-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_0c.mp4.csmil/index-f3-v1-a1.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Die Schlumpfboarder
 https://kikaonlinehls-vh.akamaihd.net/i/mp4dyn/1/FCMS-1743405b-92e8-4529-84fb-00c3f4ddadaf-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_17.mp4.csmil/master.m3u8?set-segment-duration=responsive
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Eine Schlumpfshow für Gargamel 1
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/8/FCMS-87b35f48-417a-441e-8e2e-b4bd79e5e7ef-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_87.mp4.csmil/index-f3-v1-a1.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Eine Schlumpfshow für Gargamel 2
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-354963a2-aca1-4733-a39f-3fc54611edd5-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_35.mp4.csmil/index-f3-v1-a1.m3u8
 
+
 #Kids🌟Arabisch
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids", MBC 3
-https://e1.taghtia.com/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1973949512_b1296000_slAR.m3u8
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Karameesh
+https://cdn1.ipslow.com/tv526_www.elahmad.com_karameesh/tracks-v1a1/mono.m3u8?token=40a144067d268d7678062064ab578ce7b3b396f1-0c3f9b09482663f2829369c9042efd33-1710182273-1710171473
 
-#EXTM3U
-#EXTINF:-1 tvg-logo=" https://imgs.search.brave.com/AnqoUvQpaqZaM7LNt2QCgEOGjwVxpZzDH2XE0v0kVWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Karameesh
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Al Jaded TV
+https://cdn1.ipslow.com/tv526_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=8738488591a112e92809520ce9e4028c011d2d9c-b725728a67783173a3f3db019d30168c-1710182652-1710171852
+
+#EXTINF:-1 tvg-logo=" https://imgs.search.brave.com/AnqoUvQpaqZaM7LNt2QCgEOGjwVxpZzDH2XE0v0kVWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Atfal Wa Mawahib
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="Kids", Baraeym
-https://cdn1.ipslow.com/tv525_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=3ba9298a3278adcdf37bbf50e212e5c2b2ff8b66-de6c1844d1ac5c9e6161ffb89e967cfb-1709663376-1709652576
+https://cdn1.ipslow.com/tv526_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=1c1adb2ebbc1683708bf74bfc61cda3dc21af502-c1740a6cc11415e05fc8dc4f24ab07d3-1710165948-1710155148
 
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/taha-kids.png" group-title="Kids", Taha
 https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/gulli-bil-aarabi.png" group-title="Kids", Gulli Bil Aarabi
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-kids.png" group-title="Kids", Rotana Kids
+https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1710198195~h=1baa306e7090ee81b5458e2002f09cbf/rotana/kids_1080p/chunks.m3u8
+
+#Sports 🌟
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/sharjah-sports.png" group-title="Sports", Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+
+#Series 🌟
+
+
+#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series", MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series",MBC 1
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc4.png" group-title="Series",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc5.png" group-title="Series",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/250px-MBC_Masr_Logo.png" group-title="Series", MBC Masr 1
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrUSA.us" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr 1 USA
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc-masr-2.png" group-title="Series", MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc-iraq.png" group-title="Series", MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc-bollywood.png" group-title="Series",Bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc-plus-drama.png" group-title="Series", MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+#EXTINF:-1 group-title="Series", MBC Drama HD
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1 tvg-logo=" https://qanawat.taghtia.com/assets/channels/mbc-drama.png" group-title="Series",MBC Drama
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/tvKJsZpGx0RQQKMRbMQSx6kSfdvgjWXorKK8GhqgI00/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zaGFo/aWQubWJjLm5ldC9s/YW5kaW5nLXBhZ2Vz/L19uZXh0L2ltYWdl/P3VybD1odHRwczov/L3NoYWhpZC5tYmMu/bmV0L21lZGlhT2Jq/ZWN0LzIwMjAvc2Vt/YXJ5L2VuMS91bnRp/dGxlZC91bnRpdGxl/ZC8yMzY3NzdfMzU5/MjkzX0xvZ28vb3Jp/Z2luYWwvMjM2Nzc3/XzM1OTI5M19Mb2dv/LnBuZz9oZWlnaHQ9/TmFOJndpZHRoPTUx/Ny41JmNyb3BwaW5n/UG9pbnQ9bWMmdmVy/c2lvbj0xJnR5cGU9/d2VicCZ3PTE0NDAm/cT03NQ"  group-title="Series", Ramadan Yejma'na
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/wanasah.png" group-title="Series", Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/OT6DW3E.png" group-title="Series", Abu Dhabi Emirates
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="Series", Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=https://qanawat.taghtia.com/assets/channels/rotana-cinema.png" group-title="Series", Rotana Cinema
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-cinema.png" group-title="Series", Rotana Cinema
+https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1710198671~h=ab3b115a304eb5b6d05737ba6b22aac0/rotana/cinemamasr_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-khalejia.png" group-title="Series", Rotana Khalejia
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1710198445~h=5022237c3bdd7cbde2968ba79d2763cb/rotana/khaleejiya_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-comedy.png" group-title="Series", Rotana Comedy
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1710204629~h=15ef6308a76f8eff6f06af8e53020036/rotana/comedy_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-comedy.png" group-title="Series", Rotana Classic
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1710206809~h=bb7eebb14582112db23da88fa4b368c6/rotana/classical_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-drama.png" group-title="Series", Rotana Drama
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1710207061~h=93a8ad0c4f35c3fc4a2d4fbd1aec97c1/rotana/drama_720p/chunks.m3u8
+
+#News 🌟
+
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/sky-news-arabia.png" group-title="News", Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/al-hiwar.png" group-title="News", Al Hiwar
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b3296000.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/al-jazeera-mubasher.png" group-title="News", Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/al-jazeera.png" group-title="News", Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/syria.png" group-title="News", Syria
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/al-arabiya.png" group-title="News", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="News",Al Rabiaa
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo=" https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Abu Dhabi
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Al Hayat 
+https://tv.ipslow.com/tv526_www.elahmad.com_alhayat_eg/tracks-v1a1/mono.m3u8
+
+
+#Music 🌟
+
+
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/dijlah-tarab.png" group-title="Music", Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgsrv.rotana.net/channels/1688402593.webp" group-title="Series", Rotana Clip
+https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1710213941~h=15451b65311a2d4ed079263f1719d7ce/rotana/clip_1080p/chunks.m3u8
