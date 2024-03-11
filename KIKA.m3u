@@ -1,3 +1,58 @@
+#Kids🌟Deutsch
+
 #EXTM3U
-#EXTINF:-1 title="KiKA", Das Horn des Überfulsses
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Kika_logo-700x347.png" group-title="Kids", KIKA Live
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Das Horn des Überfulsses
 https://kikaonlinehls-vh.akamaihd.net/i/mp4dyn/9/FCMS-951eb53e-56c0-4ee0-8c69-ba2b45e6db92-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_95.mp4.csmil/master.m3u8?set-segment-duration=responsive
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Ritter Schlumpfelot
+https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/0/FCMS-0c008d2e-8177-4443-8d9f-9073ccfca60d-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_0c.mp4.csmil/index-f3-v1-a1.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Die Schlumpfboarder
+https://kikaonlinehls-vh.akamaihd.net/i/mp4dyn/1/FCMS-1743405b-92e8-4529-84fb-00c3f4ddadaf-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_17.mp4.csmil/master.m3u8?set-segment-duration=responsive
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Eine Schlumpfshow für Gargamel 1
+https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/8/FCMS-87b35f48-417a-441e-8e2e-b4bd79e5e7ef-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_87.mp4.csmil/index-f3-v1-a1.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.kika.de/die-schluempfe/die-schluempfe-logo-100-resimage_v-cropped_w-256.png" group-title="Kids", Eine Schlumpfshow für Gargamel 2
+https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-354963a2-aca1-4733-a39f-3fc54611edd5-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_35.mp4.csmil/index-f3-v1-a1.m3u8
+
+#Kids🌟Arabisch
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQm8Y3J.png" group-title="Kids", MBC 3
+https://e1.taghtia.com/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1973949512_b1296000_slAR.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo=" https://imgs.search.brave.com/AnqoUvQpaqZaM7LNt2QCgEOGjwVxpZzDH2XE0v0kVWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Karameesh
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="Kids", Baraeym
+https://cdn1.ipslow.com/tv525_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=3ba9298a3278adcdf37bbf50e212e5c2b2ff8b66-de6c1844d1ac5c9e6161ffb89e967cfb-1709663376-1709652576
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/taha-kids.png" group-title="Kids", Taha
+https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
+
+
