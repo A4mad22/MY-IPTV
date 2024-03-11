@@ -25,6 +25,10 @@ https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/8/FCMS-87b35f
 https://kikavod-rwrtr.akamaized.net/i/,/kika_de-prod/online/mp4dyn/3/FCMS-354963a2-aca1-4733-a39f-3fc54611edd5-,6b00429f6b07,31e0be270130,5a2c8da1cdb7,087bde46997e,3c3a2d2ca7c6,_35.mp4.csmil/index-f3-v1-a1.m3u8
 
 
+#EXTINF:-1 tvg-logo=" https://w7.pngwing.com/pngs/689/344/png-transparent-disney-frozen-logo-elsa-anna-olaf-kristoff-frozen-blue-text-logo.png" group-title="Movie", DIE EISKÖNIGIN - VÖLLIG UNVERFROREN
+https://delivery-node-tkm5ld5qvg0exmix.voe-network.net/engine/hls2-c/01/08404/szmor2a98495_,n,.urlset/index-v1-a1.m3u8?t=rdzQg50GDO0BRjE3DT2OiCEzOkXCQLTMiWwjR7U7G8g&s=1710182638&e=14400&f=42023711&node=delivery-node-becdlpmh0urm9kbg.voe-network.net&i=84.147&sp=2500&asn=3320
+
+
 #Kids🌟Arabisch
 
 
@@ -40,6 +44,9 @@ https://cdn1.ipslow.com/tv526_www.elahmad.com_karameesh/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Al Jaded TV
 https://cdn1.ipslow.com/tv526_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=8738488591a112e92809520ce9e4028c011d2d9c-b725728a67783173a3f3db019d30168c-1710182652-1710171852
+
+#EXTINF:-1 tvg-logo=" http://www.elahmad.com/tv/mobiletv/images/almajd/majdb.jpg?v=6" group-title="Kids", Bassma
+https://cdn1.ipslow.com/tv526_www.elahmad.com_almajd_bassma/tracks-v1a1/mono.m3u8?token=d6aa6672bf79c6b1fec85f2f77b50bfe9e93af9a-547c27f346e51cc3530f89ef088ac38e-1710184664-1710173864
 
 #EXTINF:-1 tvg-logo=" https://imgs.search.brave.com/AnqoUvQpaqZaM7LNt2QCgEOGjwVxpZzDH2XE0v0kVWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Atfal Wa Mawahib
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
@@ -126,7 +133,7 @@ https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1710198445~h=
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-comedy.png" group-title="Series", Rotana Comedy
 https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1710204629~h=15ef6308a76f8eff6f06af8e53020036/rotana/comedy_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-comedy.png" group-title="Series", Rotana Classic
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-classic.png" group-title="Series", Rotana Classic
 https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1710206809~h=bb7eebb14582112db23da88fa4b368c6/rotana/classical_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-drama.png" group-title="Series", Rotana Drama
