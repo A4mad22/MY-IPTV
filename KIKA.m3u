@@ -29,7 +29,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spacetoon/images/2/26/Logo_%281%29.png" group-title="Kids", Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://imgs.search.brave.com/AnqoUvQpaqZaM7LNt2QCgEOGjwVxpZzDH2XE0v0kVWE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhhcWZueS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDkvdW5uYW1lZC0z/LmpwZw" group-title="Kids", Atfal Wa Mawahib
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/atfal-wa-mawahib.png" group-title="Kids", Atfal Wa Mawahib
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/taha-kids.png" group-title="Kids", Taha
@@ -96,7 +96,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="Series", Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://qanawat.taghtia.com/assets/channels/rotana-cinema.png" group-title="Series", Rotana Cinema
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-cinema.png" group-title="Series", Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
 
@@ -124,11 +124,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="News",Al Rabiaa
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo=" https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Abu Dhabi
+#EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Abu Dhabi
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Al Hayat 
-https://tv.ipslow.com/tv526_www.elahmad.com_alhayat_eg/tracks-v1a1/mono.m3u8
 
 
 #Music 🌟
@@ -139,3 +137,14 @@ https://ghaasiflu.online/tarab/index.m3u8
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
+
+#Movies 💫
+
+#EXTINF:-1 tvg-logo="https://static.hurawatch.bz/i/c/c2/c2c1ae8118a338264b26b2fa0fb2f1f7.jpg" group-title="Movie", JAWAN
+https://ermld.mv23fez8d.online/_v2p-oalz/12a3c523fc105800ed8c394685aeeb0b932ea95c03bde2b24d417baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a67f0720afd0749543f85a4aef0e14c4f1ec38552e423d6fd67e5b1f6fd1cd98eb5880a87e86274ffb100c60/h/f4/bafeddcab;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w27.my-cima.net/uploads/articles/d241b1ce.jpg" group-title="Movie", HARLEY
+https://gde7imxefqzeztbdob3op2dks3h1ds.liiivideo.com/hls2/02/00095/a0f3v9vkbz1j_,l,n,h,.urlset/master.m3u8?t=nDhT3A5sxOWM1Zd1JRsSWkLeLHsCGysCXo32cucho-I&s=1710408674&e=43200&f=475051&i=84.170&sp=0
