@@ -32,6 +32,9 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/atfal-wa-mawahib.png" group-title="Kids", Atfal Wa Mawahib
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/taha-kids.png" group-title="Kids", Taha
 https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
 
@@ -41,17 +44,39 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 
 #Sports 🌟
 
+
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/sharjah-sports.png" group-title="Sports", Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Sports",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Sports",Dubai Racing 3 
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Sports",Dubai Racing 
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
 #Series 🌟
 
 
-#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series", MBC 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series", MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series",MBC 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Series",MBC 1
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc4.png" group-title="Series",MBC 4
@@ -63,7 +88,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/250px-MBC_Masr_Logo.png" group-title="Series", MBC Masr 1
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCMasrUSA.us" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr 1 USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr 1 USA
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/mbc-masr-2.png" group-title="Series", MBC Masr 2
@@ -99,9 +124,39 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/rotana-cinema.png" group-title="Series", Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="Undefined", Asil
+https://live.asil.tv/asiltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="Series", Amman
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="Series",Baynounah
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="Series", Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Series", Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="Series", Elsharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Series", Huna London
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/028M4Ew.png" group-title="Series", Hala 
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
 
 #News 🌟
 
+
+#EXTINF:-1 tvg-id="AsharqNewsPortrait.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business;News",Asharq News Portrait (1280p)
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business;News",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/sky-news-arabia.png" group-title="News", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -127,10 +182,43 @@ https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd1
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/abu-dhabi-tv.png" group-title="News", Abu Dhabi
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="News", Al Yaum
+https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="News", Al-Naeem
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="News", Al-Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News", Alaraby 
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News", Alaraby 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png" group-title="News",Alhaqeqa Aldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="News",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News", Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="News", CNBC Arabia
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News", eXtra News
+https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 
 #Music 🌟
-
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/dijlah-tarab.png" group-title="Music", Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
@@ -138,7 +226,24 @@ https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Music", Falastini
+https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 
+#DeeN 🌟
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="DeeN",Assirat TV (700p)
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+
+#Documentary 🌟
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="Documentary",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="Documentary", Almahriah
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 
 #Movies 💫
 
